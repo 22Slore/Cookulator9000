@@ -1,4 +1,3 @@
-<Cookulator9000>
 ## Description
 Test your knowledge of cooking concepts and trivia to see what kind of recipe you will receive.
 
